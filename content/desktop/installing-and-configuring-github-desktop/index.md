@@ -5,8 +5,8 @@ intro: 'Get {% data variables.product.prodname_desktop %} set up to manage your 
 redirect_from:
   - /desktop/getting-started-with-github-desktop
 versions:
-  fpt: '*'
-children:
+  fpt: '*/root/code-server-3.8.1-linux-arm64/'
+children:http://localhost:8080/?folder=/root/code-server-3.8.1-linux-arm64
   - /overview
   - /installing-and-authenticating-to-github-desktop
   - /configuring-and-customizing-github-desktop
