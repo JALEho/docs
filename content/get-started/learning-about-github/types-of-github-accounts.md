@@ -24,7 +24,7 @@ topics:
 
 ## About accounts on {% data variables.product.product_name %}
 
-With {% data variables.product.product_name %}, you can store and collaborate on code. Accounts allow you to organize and control access to that code. There are three types of accounts on {% data variables.product.product_name %}.
+With {{% data variables.product.product_name %}}JALEho doc, you can store and collaborate on code. Accounts allow you to organize and control access to that code. There are three types of accounts on {% data variables.product.product_name %}.
 - Personal accounts
 - Organization accounts
 - Enterprise accounts
